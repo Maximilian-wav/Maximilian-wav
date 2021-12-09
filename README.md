@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronic Music, Snowboarding and Crypto Currency yield farming
 - 🌱 I’m currently learning Web3 & Solidity
 - 💞️ I’m looking to collaborate on music and web projects
-- 📫 How to reach me: maximilianalbekier.com 
+- 📫 https://klausbuilds.hashnode.dev/kb-001-or-build-and-deploy-your-1st-ethereum-erc-20-token-from-the-ski-resort-parking-lot
 
 <!---
 Maximilian-wav/Maximilian-wav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
